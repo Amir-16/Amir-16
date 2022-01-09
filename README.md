@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working  as a backend developer
 - 🌱 I’m currently learning <b class="H1">MicroService 😚 </b>
-- 🥅 2022 Goals: <b style="color: green"> </b>, <b> Problem Solving</b><b>Node js</b> <b>Microservice Architecture </b>
+- 🥅 2022 Goals: <b style="color: green"> </b>, <b>, Problem Solving</b><b>,Node js</b> <b>,Microservice Architecture </b>
 - ⚡ Fun fact: I love to explore latest technolgies & reading books
 
 <!-- <table style="border:5px red;color:red;display:none;">
