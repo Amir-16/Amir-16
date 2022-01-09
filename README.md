@@ -2,7 +2,7 @@
 
 
 
-### <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="20"/> I'm a 😍 JavaScript Lover 😍
+### <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="20"/> I'm a 😍 LAMP stack Lover 😍
 
 - 🔭 I’m currently working  as a backend developer
 - 🌱 I’m currently learning <b class="H1">MicroService 😚 </b>
