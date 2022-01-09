@@ -36,14 +36,13 @@
 
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 
-[<img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sassplaylist]
+
 [<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 [<img align="left" alt="typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />][reduxplaylist]
 
 [<img align="left" alt="Vue JS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][vueplaylist]
 
-[<img align="left" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][firebaseplaylist]
 [<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 
 [<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
@@ -52,9 +51,7 @@
 
 [<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />][laravelplaylist]
 
-[<img align="left" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][graphqlplaylist]
 
-[<img align="left" alt="typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][typescript]
 
 [banner]: https://media-exp1.licdn.com/dms/image/C5616AQHQz0FrV4bLEQ/profile-displaybackgroundimage-shrink_350_1400/0/1623739764608?e=1635984000&v=beta&t=l0lyl6NmBRwIvF1pm_4C9lmYMq-7J1obJ812lY3XAtk
 [office]: https://www.linkedin.com/company/sayburgh-solution
