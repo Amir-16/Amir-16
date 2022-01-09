@@ -64,13 +64,9 @@
 [webdevplaylist]: https://github.com/Amir-16?tab=repositories
 [jsplaylist]: https://github.com/Amir-16?tab=repositories&q=js
 [cssplaylist]: https://github.com/Amir-16?tab=repositories&q=css
-[sassplaylist]: https://github.com/Amir-16/Responsive-Landing-Page-By-Sass
 [reactplaylist]: https://github.com/Amir-16?tab=repositories&q=react
 [reduxplaylist]: https://github.com/Amir-16?tab=repositories&q=redux
 [vueplaylist]: https://github.com/Amir-16?tab=repositories&q=vue
-[firebaseplaylist]: https://github.com/Amir-16?tab=repositories&q=firebase
 [nodeplaylist]: https://github.com/Amir-16?tab=repositories&q=node
 [laravelplaylist]: https://github.com/Amir-16?tab=repositories&q=laravel
-[graphqlplaylist]: https://github.com/Amir-16?tab=repositories&q=graphql
 [mysql]: https://github.com/Amir-16?tab=repositories&q=mysql
-[typescript]: https://github.com/Amir-16?tab=repositories&q=typescript
