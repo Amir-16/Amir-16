@@ -2,9 +2,9 @@
 
 
 
-### <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="20"/> I'm a 😍 LAMP stack Lover 😍
+<!-- ### <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="20"/> I'm a 😍 LAMP stack Lover 😍 -->
 
-- 🔭 I’m currently working on php,laravel, javascript,vuesjs 
+- 🔭 I’m currently working on php,laravel, javascript,vuejs 
 - 🌱 I’m currently learning <b class="H1">MicroService 😚 </b>
 - 🥅 2022 Goals: <b style="color: green"> </b> <b>, Problem Solving</b><b>,Node js</b> <b>,Microservice Architecture </b>
 - ⚡ Fun fact: I love to explore latest technolgies & reading books
