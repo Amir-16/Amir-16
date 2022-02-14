@@ -18,8 +18,6 @@
 
 <[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Amir-16&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amir-16&repo=github-readme-stats)](https://github.com/Amir-16/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-16&exclude_repo=github-readme-stats,Amir-16.github.io)](https://github.com/Amir-16/github-readme-stats)
 
 ### <img src="https://c.tenor.com/9q2hehDWaQYAAAAi/sending-love-cute.gif" width="50"> Connect with me: ![Profile Views ](https://komarev.com/ghpvc/?username=Amir-16&label=Profile%20Views&color=3cb480)
