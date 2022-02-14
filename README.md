@@ -20,7 +20,7 @@
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amir-16&hide_border=true&show_icons=true&theme=mona=kali&title_color=3cb480&locale=en" alt="Amirul Islam" width="550px" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-16&layout=compact)](https://github.com/Amir-16/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-16&exclude_repo=github-readme-stats,Amir-16.github.io)](https://github.com/Amir-16/github-readme-stats)
 
 ### <img src="https://c.tenor.com/9q2hehDWaQYAAAAi/sending-love-cute.gif" width="50"> Connect with me: ![Profile Views ](https://komarev.com/ghpvc/?username=Amir-16&label=Profile%20Views&color=3cb480)
 
