@@ -20,6 +20,8 @@
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amir-16&hide_border=true&show_icons=true&theme=mona=kali&title_color=3cb480&locale=en" alt="Amirul Islam" width="550px" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-16&layout=compact)](https://github.com/Amir-16/github-readme-stats)
+
 ### <img src="https://c.tenor.com/9q2hehDWaQYAAAAi/sending-love-cute.gif" width="50"> Connect with me: ![Profile Views ](https://komarev.com/ghpvc/?username=Amir-16&label=Profile%20Views&color=3cb480)
 
 [![LinkedIn Connect](https://img.shields.io/badge/Connect_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/kazi-md-amirul-islam-14395b1b7/)
