@@ -18,7 +18,7 @@
 
 <[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Amir-16&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amir-16&hide_border=true&show_icons=true&theme=mona=kali&title_color=3cb480&locale=en" alt="Amirul Islam" width="550px" />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amir-16&repo=github-readme-stats)](https://github.com/Amir-16/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-16&exclude_repo=github-readme-stats,Amir-16.github.io)](https://github.com/Amir-16/github-readme-stats)
 
