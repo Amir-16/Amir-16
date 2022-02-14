@@ -17,7 +17,6 @@
 </table> -->
 
 <[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Amir-16&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amir-16&theme=vue&hide_border=true&ring=F25822&fire=E25822&currStreakLabel=E25822)
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amir-16&hide_border=true&show_icons=true&theme=mona=kali&title_color=3cb480&locale=en" alt="Amirul Islam" width="550px" />
 
