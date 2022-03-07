@@ -7,7 +7,7 @@
 - 🔭 I’m currently working as a software developer in xirosoft
 - 🌱 I’m currently learning <b class="H1">Docker ,MicroService 😚 </b>
 - 🥅 2022 Goals: <b style="color: green"> </b> <b>, Problem Solving</b><b>,Node js</b> <b>,Microservice Architecture & Open source contribution </b>
-- ⚡ Fun fact: I love to explore latest technolgies & reading book
+- ⚡ Fun fact: I love to explore latest technolgies , reading book & thriller movie 😱
 - 📧 Email: amirulcse03@gmail.com
 - 📱  Cell:+8801832846626
 
