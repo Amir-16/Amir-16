@@ -4,7 +4,7 @@
 
 <!-- ### <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="20"/> I'm a 😍 LAMP stack Lover 😍 -->
 
-- 🔭 I’m currently working in php,Laravel, Vuejs,Docker 
+- 🔭 I’m currently working in Php(Laravel),Vuejs,Docker 
 - 🌱 I’m currently learning <b class="H1">System design,System Architecture, CI& CD </b>
 - 🥅 2022 Goals: <b style="color: green"> </b> <b>, Problem Solving</b><b>,Node js</b> <b>,Microservice Architecture & Open source contribution </b>
 - ⚡Interest: I love to explore latest technolgies , reading book & thriller movie 😱
