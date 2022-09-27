@@ -1,4 +1,4 @@
-### Hi there, I'm [Amirul Islam][website] passionate Software Engineer & learner   👋
+### Hi there, I'm [Amirul Islam][website] passionate Software Engineer & learner 👋
 
 
 
