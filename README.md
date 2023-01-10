@@ -1,4 +1,4 @@
-### Hi there, I'm [Amirul Islam][website] passionate Software Engineer, Problem Solver & learner 👋
+### Hi there,I'm [Amirul Islam][website] passionate Software Engineer, Problem Solver & learner 👋
 
 
 
@@ -20,7 +20,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Amir-16&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-16&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-16&layout=compact&langs_count=7&theme=tokyonight"/>
 <!-- 
 ### <img src="https://c.tenor.com/9q2hehDWaQYAAAAi/sending-love-cute.gif" width="50"> Connect with me: ![Profile Views ](https://komarev.com/ghpvc/?username=Amir-16&label=Profile%20Views&color=3cb480) -->
 
