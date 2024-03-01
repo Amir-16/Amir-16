@@ -5,8 +5,8 @@
 <!-- ### <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="20"/> I'm a 😍 LAMP stack Lover 😍 -->
 
 - 🔭 I’m currently working in Php(Laravel),Vuejs,Docker,CI & CD
-- 🌱 I’m currently learning <b class="H1">Microservice Architecture, Node js, Jenkins </b>
-- 🥅 2023 Goals: <b style="color: green"> </b> <b>, Problem solving <b>,Microservice Architecture & Open source contribution</b>
+- 🌱 I’m currently learning <b class="H1">Microservice Architecture, AWS </b>
+- 🥅 2024 Goals: <b style="color: green"> </b> <b>, Problem solving <b>,Microservice Architecture & Open source contribution</b>
 - ⚡Interest: I love to explore latest technolgies 
 - 📧 Email:amirulcse03@gmail.com 
 - 📱 WhatsApp :+8801832846626
