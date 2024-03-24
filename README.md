@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working in Php(Laravel),React Js,Docker,CI & CD
 - 🌱 I’m currently learning <b class="H1"> AWS </b>
-- 🥅 2024 Goals: <b style="color: green"> </b> <b>, Problem solving <b>,Microservice Architecture & Open source contribution</b>
+- 🥅 2024 Goals: <b style="color: green"> </b> <b>, Devops with development <b>,Microservice Architecture & Open source contribution</b>
 - ⚡Interest: I love to explore latest technolgies 
 - 📧 Email:amirulcse03@gmail.com 
 - 📱 WhatsApp :+8801832846626
