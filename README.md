@@ -4,8 +4,8 @@
 
 <!-- ### <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="20"/> I'm a 😍 LAMP stack Lover 😍 -->
 
-- 🔭 I’m currently working in Php(Laravel),React Js,Docker,CI & CD
-- 🌱 I’m currently learning <b class="H1"> AWS deployment,Azure,kubernetes  </b>
+- 🔭 I’m currently working in Php(Laravel),React Js,Docker,AWS,CI & CD
+- 🌱 I’m currently learning <b class="H1"> Azure,kubernetes  </b>
 - 🥅 2024 Goals: <b style="color: green"> </b> <b>, Devops with development <b>,Microservice Architecture & Open source contribution</b>
 - ⚡Interest: I love to explore latest technolgies 
 - 📧 Email:amirulcse03@gmail.com 
