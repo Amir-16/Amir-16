@@ -5,7 +5,7 @@
 <!-- ### <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="20"/> I'm a 😍 LAMP stack Lover 😍 -->
 
 - 🔭 I’m currently working in Php(Laravel),React Js,Docker,AWS
-- 🌱 I’m currently learning <b class="H1"> Golang, Azure & kubernetes </b>
+- 🌱 I’m currently learning <b class="H1"> golang, Azure & kubernetes </b>
 - 🥅 2024 Goals: <b style="color: green"> </b> <b>DevOps <b>,Distributed Architecture & Open source contribution</b>
 - ⚡Interest: I love to explore latest technolgies 
 - 📧 Email:amirulcse03@gmail.com 
