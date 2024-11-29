@@ -66,5 +66,5 @@
 [nodeplaylist]: https://github.com/Amir-16?tab=repositories&q=node
 [laravelplaylist]: https://github.com/Amir-16?tab=repositories&q=laravel
 [mysql]: https://github.com/Amir-16?tab=repositories&q=mysql
-[Golang]:https://github.com/Amir-16?tab=repositories&q=golang
-[Aws]:https://github.com/Amir-16?tab=repositories&q=aws
+[golangplaylist]:https://github.com/Amir-16?tab=repositories&q=golang
+[awsplaylist]:https://github.com/Amir-16?tab=repositories&q=aws
