@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working in Php(Laravel),Nodejs,React Js, Docker, AWS
 - 🌱 I’m currently learning <b class="H1"> Golang & Kubernetes </b>
-- 🥅 2024 Goals: <b style="color: green"> </b> <b>DevOps <b>,Distributed Architecture & Open source contribution</b>
+- 🥅 2025 Goals: <b style="color: green"> </b> <b>DevOps <b>,Distributed Architecture & Open source contribution</b>
 - ⚡Interest: I love to explore latest technolgies 
 - 📧 Email:amirulcse03@gmail.com 
 - 📱 WhatsApp :+8801832846626
