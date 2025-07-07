@@ -4,8 +4,8 @@
 
 <!-- ### <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="20"/> I'm a 😍 LAMP stack Lover 😍 -->
 
-- 🔭 I’m currently working in Php(Laravel),Nodejs,Golang,React Js, Docker, K8s, AWS
-- 🌱 I’m currently working building myself as <b class="H1"> Solution Architect </b>
+🌱 I'm currently working with **PHP (Laravel)**, **Node.js**, **Golang**, **React.js**, **Docker**, **Kubernetes (K8s)**, and **AWS**.  
+🚀 I'm also focused on building my expertise to become a **Solution Architect**.
 - 🥅 2025 Goals: <b style="color: green"> </b> <b>DevOps <b>,Distributed Architecture & Open source contribution</b>
 - ⚡Interest: I love to explore latest technolgies 
 - 📧 Email:amirulcse03@gmail.com 
