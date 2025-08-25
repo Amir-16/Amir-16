@@ -1,10 +1,10 @@
-### Hi there,I'm [Amirul Islam][website] passionate Software Engineer, DevOps Enthusiast 👋
+### Hi there,I'm [Amirul Islam][website] passionate Sr. Software Engineer, DevOps Enthusiast 👋
 
 
 
 <!-- ### <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="20"/> I'm a 😍 LAMP stack Lover 😍 -->
 
-- 🌱 I'm currently working with **PHP (Laravel)**, **Node.js**, **Golang**, **React.js**, **Docker**, **Kubernetes (K8s)**, and **AWS**.  
+- 🌱 I'm currently working with **PHP(Laravel)**, **Node.js**, **Golang**, **React.js**, **Docker**, **Kubernetes (K8s)**, and **AWS**.  
 - 🚀 I'm also focused on building my expertise to become a **Software Solution Architect**.
 - 🥅 2025 Goals: <b style="color: green"> </b> <b>DevOps <b>,Distributed Architecture & Open source contribution</b>
 - ⚡Interest: I love to explore latest technolgies 
