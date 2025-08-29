@@ -9,7 +9,6 @@
 - 🥅 2025 Goals: <b style="color: green"> </b> <b>DevOps <b>,Distributed Architecture & Open source contribution</b>
 - ⚡Interest: I love to explore latest technolgies 
 - 📧 Email:amirulcse03@gmail.com 
-- 📱 WhatsApp :+8801832846626
 -  Medium : https://medium.com/@amirswe
 <!-- <table style="border:5px red;color:red;display:none;">
  <tr border="0">
