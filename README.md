@@ -1,4 +1,4 @@
-### Hi there,I'm [Amirul Islam][website] passionate Sr. Software Engineer, DevOps Enthusiast 👋
+### Hi there,I'm [Amirul Islam][website] passionate Sr. Software Engineer with Devops Expertise 👋
 
 
 
