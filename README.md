@@ -1,4 +1,4 @@
-### Hi there,I'm [Amirul Islam][website] Sr.Full Stack Software Engineer with Devops Expertise 👋
+### Hi there,I'm [Amirul Islam][website] Sr. Software Engineer with Devops Expertise 👋
 
 
 
