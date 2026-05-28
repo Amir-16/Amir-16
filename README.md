@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently working with **Python**,**PHP**, **Node.js**, **Golang**, **React.js**, **Docker**, **Kubernetes** and **AWS**.  
 - 🚀 I'm also focused on building my expertise to become **Solutions Architect**.
-- 🥅 2026 Goals: <b style="color: green"> </b> <b>DevOps <b>,Distributed Architecture & Open source contribution</b>
+- 🥅 2026 Goals: <b style="color: green"> </b> <b>DevOps <b>, Distributed Architecture & open source contribution</b>
 - ⚡Interest: I love to explore latest technolgies
 - 📧 Email:amirulcse03@gmail.com 
 -  Medium : https://medium.com/@amirswe
