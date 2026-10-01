@@ -8,7 +8,7 @@
 - 🚀 I'm also focused on building my expertise to become **Solutions Architect**.
 - 🥅 2026 Goals: <b style="color: green"> </b> <b>DevOps <b>, Distributed Architecture & open source contribution</b>
 - ⚡Interest: I love to explore latest technolgies
-- 📧 Email:amirulcse03@gmail.com 
+- 📧 Email:amirulswe11@gmail.com 
 -  Medium : https://medium.com/@amirswe
 <!-- <table style="border:5px red;color:red;display:none;">
  <tr border="0">
